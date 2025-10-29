@@ -1,0 +1,64 @@
+*{
+    text-align: center;
+}
+
+.pinkk{
+    
+    margin: auto;
+    height: 200px;
+    width: 200px;
+    border: 6px solid black;
+    border-radius: 20%;
+    margin: 1rem;
+    background-color: pink;
+}
+.bluee{
+    
+    margin: auto;
+    height: 200px;
+    width: 200px;
+    border: 6px solid black;
+    border-radius: 20%;
+    margin: 1rem;
+    background-color: rgb(55, 55, 243);
+    
+}
+.greenn{
+    
+    margin: auto;
+    height: 200px;
+    width: 200px;
+    border: 6px solid black;
+    border-radius: 20%;
+    margin: 1rem;
+    background-color: rgb(3, 110, 37);
+}
+.orangee{
+    
+    margin: auto;
+    height: 200px;
+    width: 200px;
+    border: 6px solid black;
+    border-radius: 20%;
+    margin: 1rem;
+    background-color: rgb(239, 87, 32);
+}
+.on{
+    display: flex;
+    justify-content: center;
+
+}
+
+.flash{
+    background-color: whitesmoke;
+}
+
+.userflash{
+    background-color: rgb(41, 223, 41);
+}
+.correct{
+    background-color: rgb(125, 248, 125);
+}
+.incorrect{
+    background-color: red;
+}
